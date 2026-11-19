@@ -1,0 +1,121 @@
+sintomo3
+  nodal_skin_eruptions:     ==> fungal_infection
+  chills:     ==> allergy
+  watering_from_eyes:     ==> allergy
+  ulcers_on_tongue:     ==> gerd
+  vomiting:    sintomo1
+      skin_rash:         ==> dengue
+      stomach_pain:         ==> gerd
+      acidity:         ==> gerd
+      chills:         ==> dengue
+  yellowish_skin:    sintomo8
+      non_presente:         ==> chronic_cholestasis
+      mild_fever:         ==> hepatitis_a
+      diarrhoea:         ==> hepatitis_a
+      yellowing_of_eyes:        sintomo1
+          itching:             ==> hepatitis_b
+          vomiting:             ==> hepatitis_d
+          fatigue:             ==> hepatitis_b
+          joint_pain:             ==> hepatitis_d
+  nausea:    sintomo5
+      abdominal_pain:         ==> chronic_cholestasis
+      family_history:         ==> hepatitis_c
+      loss_of_balance:         ==> vertigo_paroymsal_positional_vertigo
+      yellowing_of_eyes:         ==> hepatitis_c
+      unsteadiness:         ==> vertigo_paroymsal_positional_vertigo
+  stomach_pain:     ==> drug_reaction
+  burning_micturition:     ==> drug_reaction
+  abdominal_pain:    sintomo2
+      yellowish_skin:         ==> alcoholic_hepatitis
+      loss_of_appetite:         ==> peptic_ulcer_diseae
+      indigestion:         ==> peptic_ulcer_diseae
+  loss_of_appetite:    sintomo1
+      vomiting:         ==> peptic_ulcer_diseae
+      fatigue:         ==> hepatitis_c
+      yellowish_skin:         ==> hepatitis_c
+  high_fever:    sintomo5
+      non_presente:         ==> aids
+      family_history:         ==> bronchial_asthma
+      mucoid_sputum:         ==> bronchial_asthma
+      headache:         ==> malaria
+      nausea:        sintomo10
+          non_presente:             ==> malaria
+          belly_pain:             ==> typhoid
+      dark_urine:         ==> hepatitis_e
+      sweating:         ==> pneumonia
+  extra_marital_contacts:     ==> aids
+  restlessness:    sintomo10
+      non_presente:         ==> diabetes_
+      polyuria:         ==> diabetes_
+      abnormal_menstruation:         ==> hyperthyroidism
+  lethargy:    sintomo10
+      non_presente:         ==> diabetes_
+      malaise:         ==> hepatitis_b
+      red_spots_over_body:         ==> chicken_pox
+      receiving_blood_transfusion:         ==> hepatitis_b
+  dehydration:     ==> gastroenteritis
+  diarrhoea:     ==> gastroenteritis
+  breathlessness:     ==> bronchial_asthma
+  dizziness:    sintomo1
+      headache:         ==> hypertension_
+      back_pain:         ==> cervical_spondylosis
+      weakness_in_limbs:         ==> cervical_spondylosis
+  loss_of_balance:     ==> hypertension_
+  headache:     ==> migraine
+  blurred_and_distorted_vision:     ==> migraine
+  neck_pain:     ==> cervical_spondylosis
+  weakness_of_one_body_side:     ==> paralysis_brain_hemorrhage
+  altered_sensorium:     ==> paralysis_brain_hemorrhage
+  fatigue:    sintomo9
+      non_presente:        sintomo1
+          itching:             ==> jaundice
+          joint_pain:             ==> hepatitis_d
+      swelled_lymph_nodes:         ==> chicken_pox
+      malaise:         ==> chicken_pox
+      loss_of_appetite:         ==> tuberculosis
+      toxic_look_(typhos):         ==> typhoid
+      diarrhoea:         ==> typhoid
+      mild_fever:         ==> tuberculosis
+      yellowing_of_eyes:        sintomo10
+          non_presente:             ==> hepatitis_d
+          acute_liver_failure:             ==> hepatitis_e
+      abdominal_pain:         ==> hepatitis_e
+      phlegm:         ==> common_cold
+      throat_irritation:         ==> common_cold
+  weight_loss:    sintomo10
+      non_presente:         ==> jaundice
+      yellowing_of_eyes:         ==> tuberculosis
+      irritability:         ==> hyperthyroidism
+      abnormal_menstruation:         ==> hyperthyroidism
+  sweating:    sintomo2
+      vomiting:         ==> malaria
+      high_fever:         ==> malaria
+      fatigue:         ==> hypoglycemia
+      breathlessness:         ==> heart_attack
+      anxiety:         ==> hypoglycemia
+  joint_pain:     ==> dengue
+  dark_urine:     ==> hepatitis_a
+  cough:    sintomo10
+      redness_of_eyes:         ==> common_cold
+      rusty_sputum:         ==> pneumonia
+      fast_heart_rate:         ==> pneumonia
+  pain_in_anal_region:     ==> dimorphic_hemmorhoidspiles
+  bloody_stool:     ==> dimorphic_hemmorhoidspiles
+  chest_pain:     ==> heart_attack
+  bruising:     ==> varicose_veins
+  obesity:     ==> varicose_veins
+  cold_hands_and_feets:     ==> hypothyroidism
+  mood_swings:     ==> hypothyroidism
+  anxiety:     ==> hypoglycemia
+  knee_pain:     ==> osteoarthristis
+  hip_joint_pain:     ==> osteoarthristis
+  swelling_joints:     ==> arthritis
+  movement_stiffness:     ==> arthritis
+  spinning_movements:     ==> vertigo_paroymsal_positional_vertigo
+  blackheads:     ==> acne
+  scurring:     ==> acne
+  continuous_feel_of_urine:     ==> urinary_tract_infection
+  skin_peeling:     ==> psoriasis
+  silver_like_dusting:     ==> psoriasis
+  blister:     ==> impetigo
+  red_sore_around_nose:     ==> impetigo
